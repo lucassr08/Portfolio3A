@@ -4,10 +4,10 @@
 
 ### -Fevereiro-
 
-- [Fevereiro](Banco de Dados/Fevereiro/LojaDeRoupas)
-- [Fevereiro](Banco de Dados/Fevereiro/AtvDiagnostica)
-- [Fevereiro](Banco de Dados/Fevereiro/DiagramAtvDiagnostica.png)
+- [LojaDeRoupa](Banco%20de%20Dados/Fevereiro/LojaDeRoupas.sql)
+- [AtvDiagnostica](Banco%20de%20Dados/Fevereiro/AtvDiagnostica.sql)
+- [DiagramAtvDiagnostica](Banco%20de%20Dados/Fevereiro/DiagramAtvDiagnostica.png)
 
 ### -Março-
 
-- [Março](Banco de Dados/Março/PROJETO BANCO DE DADOS (1).pdf)
+- [Março](Banco%20de%20Dados/Março/PROJETO BANCO DE DADOS (1).pdf)
