@@ -1,0 +1,22 @@
+1- \copy netflix_titles from 'C:\Users\lucas_santos-rosa\Downloads\AtividadeAvaliativa\netflix_titles.csv' delimiter ',' csv header encoding 'UTF-8'; -- Utilizei esse comando para importar a tabela "netflix_titles.csv", só que utilizei o comando "encoding 'UTF-8'" pois estavá ocorrendo erro na importação no sql.  
+
+2- select  (title, country, rating, duration, listed_in) from netflix_titles where tipo  ilike'%movie%' -- Esqueci de colocar o ILIKE para especificar tipo movie.  
+
+3- \copy (select title, country, rating, duration, listed_in from netflix_titles) to 'C:\Users\lucas_santos-rosa\Downloads\AtividadeAvaliativa\netflix_titles.csv' delimiter ',' csv header encoding 'UTF-8' -- Esqueci de especificar as tabelas do netflix_titles dentro dos parentese depois do select.
+
+4- select * from netflix_titles where data_adicionado >= '2019-07-01' and data_adicionado <= '2019-12-31' --Errei na parte do select que tinha que ter colocado * from netflix_titles dai depos 'where date_added >= 'A DATA INICIAL' and date_added <= 'A DATA FINAL'. 
+
+5- select * from netflix_titles where atores ilike '%adam sandler%' -- Não realizei essa questão na prova por falta de tempo e organização.
+
+6- select * from netflix_titles where diretor ilike '%Quentin Tarantino%' -- Não realizei a questão 
+
+7- select * from netflix_titles where genero ilike '%drama%' -- Fiz a questão totalmente errada, não sabia qual era o codigo necessario. 
+
+8- \copy laptop_price from 'C:\Users\lucas_santos-rosa\Downloads\AtividadeAvaliativa\laptod_price.csv' delimiter ',' csv header;  -- Utilizei esse comando para importação da 'tabela laptop_price.csv'.
+
+9- select preco_euros, (preco_euros * 0.9) as preco_sugerido from laptop_price -- Não fiz essa questão na prova, sem tempo.
+
+10- \copy (select preco_euros, (preco_euros * 0.9) as preco_sugerido from laptop_price) to 'C:\Users\lucas_santos-rosa\Downloads\AtividadeAvaliativa\laptop_price.csv' delimiter ',' csv header -- Não especifiquei dentro dos parentes depois do select o as informações do preço da tabela 'laptop_price.csv'.
+
+11- 1 - select round (avg(preco_euros),2) from laptop_price -- Não fiz essa questão na prova
+    2 - select from laptop_price where TypeName ilike '%notebook%' -- Nã fiz essa questão na prova
