@@ -74,10 +74,10 @@
 
 ## -PIT-
 
-- [figma](Portfolio3A/blob/main/PIT/Untitled.png)
-- [Video](Portfolio3A/blob/main/PIT/Video)
-- [Apresentação](Portfolio3A/blob/main/PIT/Criado%20por%20Lucas%20Santos%2C%20Mateus%20Lohn%2C%20ENzo%20Fagundes%20e%20Igor%20Reny%20(1).pdf)
-- [Docs](Portfolio3A/blob/main/PIT/docsExplicativo)
+- [figma](PIT/Untitled.png)
+- [Video](PIT/Video)
+- [Apresentação](PIT/Criado%20por%20Lucas%20Santos%2C%20Mateus%20Lohn%2C%20ENzo%20Fagundes%20e%20Igor%20Reny%20(1).pdf)
+- [Docs](PIT/docsExplicativo)
 
 ## -AUTORIA PESSOAL-2020- 
 ### Sobre mim 
