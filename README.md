@@ -79,9 +79,9 @@
 - [Apresentação](PIT/Criado%20por%20Lucas%20Santos%2C%20Mateus%20Lohn%2C%20ENzo%20Fagundes%20e%20Igor%20Reny%20(1).pdf)
 - [Docs](PIT/docsExplicativo)
 
-## -AUTORIA PESSOAL-2020- 
+## -AUTORIA PESSOAL-2022- 
 ### Sobre mim 
-Faço 3 ano do ensino medio no periodo matutino com tecnico de informações intregado no SESISENAI SJ. Tenho conhecimento de Linux, redes, Logica computacional e Nivel alto de lingugens em Ingles. Busco mais conhecimento em areas de TI e na propria Informatica, historico de atleta, passagem por figueirense, Academic Roma Fc, Internacional, teste na base do Gremio, Teste na base do avai,teste na base do Guarani e atualmente jogando pelo PBEC brasil, time profissonal formador de atlestas, representando florianopolis. Pretendo finalizar o Ensino medio e os cursos de TI, mas não parar de abrir meu conhecimento e continuar estudante sobres os assuntos. 
+Faço 3ª ano do ensino medio no periodo matutino com tecnico de informações intregado no SESISENAI SJ. Tenho conhecimento de Linux, redes, Logica computacional e Nivel alto de lingugens em Ingles. Busco mais conhecimento em areas de TI e na propria Informatica, historico de atleta, passagem por figueirense, Academic Roma Fc, Internacional, teste na base do Gremio, Teste na base do avai,teste na base do Guarani e pelo PBEC brasil, time profissonal formador de atlestas, representando florianopolis. Pretendo finalizar o Ensino medio e os cursos de TI, mas não parar de abrir meu conhecimento e continuar estudante sobres os assuntos. 
 
 ### Habilidades
 * Facilidade de aprendizado 
@@ -94,7 +94,7 @@ Faço 3 ano do ensino medio no periodo matutino com tecnico de informações int
 
 ### Informações 
 - Nome: Lucas Santos da Rosa 
-- Idade: 17 anos 
+- Idade: 18 anos 
 - Data de nascimento 08/10/2004 
 - Naturalidade: São jose, SC - Brasil 
-- Disponibilidade: Periodo vespertino 
+- Disponibilidade: Periodo vespertino/ noturno
