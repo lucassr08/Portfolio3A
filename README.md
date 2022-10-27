@@ -67,12 +67,12 @@
 - [Cigarro](Progamação%20de%20Aplicativos/junho/cigarro)
 
 
-## -Teste Vocacional-
+## Teste Vocacional
 
 - [DiagramaAtv](TesteVocacional/DiagramaAvt.jpg)
 - [Figma](TesteVocacional/Untitled.pdf)
 
-## -PIT-
+## PIT
 
 - [figma](PIT/Untitled.png)
 - [Video](PIT/Video)
