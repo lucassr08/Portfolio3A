@@ -79,7 +79,7 @@
 - [Apresentação](PIT/Criado%20por%20Lucas%20Santos%2C%20Mateus%20Lohn%2C%20ENzo%20Fagundes%20e%20Igor%20Reny%20(1).pdf)
 - [Docs](PIT/docsExplicativo)
 
-## GitHuB 2ª ano
+## GitHub 2ª ano
 
 - [Acessar](https://github.com/lucassr08/Portifoliotecnico2A)
 
