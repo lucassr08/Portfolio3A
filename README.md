@@ -79,6 +79,12 @@
 - [Apresentação](PIT/Criado%20por%20Lucas%20Santos%2C%20Mateus%20Lohn%2C%20ENzo%20Fagundes%20e%20Igor%20Reny%20(1).pdf)
 - [Docs](PIT/docsExplicativo)
 
+## SAEP
+
+- [Figma](Saep/Figma)
+- [Diagrama ER](Saep/SAEP.drawio%20(2).png)
+- [Diagrama CDU](Saep/SAEP.drawio%20aaa.png)
+
 ## GitHub 2ª ano
 
 - [Acessar](https://github.com/lucassr08/Portifoliotecnico2A)
