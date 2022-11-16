@@ -49,6 +49,10 @@
 
 - [Figma](Modelagem%20de%20Sistemas/Maio/Untitled.pdf)
 
+### -Outubro-
+
+- [Diagrama CDU](Modelagem%20de%20Sistemas/Outubro/Bancão.drawio.png)
+
 ## Programação de Aplicativos
 
 ### -Fevereiro-
@@ -66,6 +70,12 @@
 
 - [Cigarro](Progamação%20de%20Aplicativos/junho/cigarro)
 
+## Teste de Sistemas 
+
+### -Setembro-
+
+- [TesteFuncional&Funcionalidade](TesteSistemas/TestesFuncionais%26Funcionalidade)
+- [TestesFuncional](TesteSistemas/TesteFuncional)
 
 ## Teste Vocacional
 
